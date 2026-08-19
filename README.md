@@ -36,4 +36,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 
 **Step 2.** Decompress the package to your chosen location on disk.
 
-**Step 3.** Start the application and configure your initial preferences.  
+**Step 3.** Start the application and configure your initial preferences.   
